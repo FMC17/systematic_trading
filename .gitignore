@@ -176,6 +176,8 @@ GEMINI.md
 bench_data/
 /api_reference/
 /catalog/
+data
+/data/
 /docs/getting_started/catalog/
 /docs/tutorials/catalog/
 /docs/tutorials/databento/
